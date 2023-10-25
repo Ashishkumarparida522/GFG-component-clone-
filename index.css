@@ -1,0 +1,284 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.navbar{
+    height: 60px;
+    background-color: black;
+}
+#a{
+    background-color: black;
+    text-align: center;
+    color: rgb(239, 233, 233);
+    border: none;
+   
+  
+    
+}
+#b{
+    background-color: black;
+    margin-left: 8px;
+    color: white;
+    border: none;
+  
+}
+#c{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-left: 10px;
+}
+#d{
+    background-color:black ;
+    margin-left: 10px;
+    color: white;
+    border: none;
+
+}
+#e{ 
+    background-color: black;
+    margin-left: 10px;
+    color: white;
+    border: none;
+}
+#img1{
+    
+    margin-left: 190px;
+    
+}
+#inpu{
+    border-radius: 10px 0  0 10px;
+    padding-left: 5px;
+    height: 48px;
+    width: 300px;
+    margin-left: 130px;
+    border: solid;
+    border-width: 2px;
+    background-color: rgb(32, 31, 31);
+}
+#img2{
+  
+    margin-top: px;
+    height: 40px;
+   border-radius: 0 30px 30px 0;
+   background-color:rgb(62, 56, 56);
+    
+   
+}
+.btn1{
+    margin-left: 30px;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    width: 90px;
+    background-color:rgb(69, 62, 62);
+    color: white;
+    text-align: center;
+}
+#navbar2{
+    background-color: black;
+    margin-top: 0px;
+    border-style: solid;
+    border-width: 1px;
+    height: 50px;
+    padding-top: 5px;
+    border-color: rgb(62, 58, 58);
+   
+    color: white;
+}
+#a0{
+    margin-left: 35px;
+}
+#a0:hover{
+    color: green;
+}
+#a1{
+  
+    margin-left: 40px;
+}
+#a1:hover{
+    color:green;
+}#a2{
+  
+    margin-left: 40px;
+}
+#a2:hover{
+    color:green;
+}
+#a3{
+  
+    margin-left: 40px;
+}
+#a3:hover{
+    color:green;
+}
+#a4{
+  
+    margin-left: 40px;
+}
+#a4:hover{
+    color:green;
+}
+#a5{
+  
+    margin-left: 40px;
+    
+}
+#a5:hover{
+    color:green;
+}
+#a6{
+  
+    margin-left: 40px;
+}
+#a6:hover{
+    color:green;
+}
+#a7{
+  
+    margin-left: 40px;
+}
+#a7:hover{
+    color:green;
+}
+#a8{
+  
+    margin-left: 40px;
+}
+#a8:hover{
+    color:green;
+}
+#a9{
+  
+    margin-left: 40px;
+}
+#a9:hover{
+    color:green;
+}
+#a10{
+  
+    margin-left: 40px;
+}
+#a10:hover{
+    color:green;
+}
+.text{
+   height: 1000px;
+   background-color:rgb(67, 63, 63)
+
+}
+h3{
+    
+    font-size: 25px;
+    height: 10px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.navbar3{
+    margin-left: 30%;
+
+}
+#inpu2{
+    border: none;
+    border-right: 0px;
+    margin-top: 20px;
+    height: 50px;
+    width: 450px;
+    border-radius: 12px 0 0 12px ;
+}
+#btn2{
+ 
+    border-right: 0px;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 0 12px 12px 0;
+    margin-left: 0px;
+    background-color: black;
+}
+#btn2:hover
+{
+    color: green;
+}
+
+
+#b1{
+    height: 24px;
+    width: 150px;
+    margin-left: 30%;
+    border-radius:4px ;
+    background-color: black;
+    color:white;
+    font-size: 8px;
+}
+#b2{
+    height: 24px;
+    width: 150px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-size: 8px;
+}
+#b3{
+    height: 24px;
+    width: 150px;
+    border-radius:4px ;
+    background-color:black;
+    color: white;
+    font-size: 8px;
+}
+.main{
+    margin-top: 50px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+
+}
+#t1{
+  
+    font-size: 17px;
+    color: whitesmoke;
+}
+h4{
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: white;
+}
+.pic1{
+    border: 0.5px solid;
+}
+.pic2{
+    border:0.5px solid;
+}
+.pic3{
+    
+    border: 0.5px solid;
+}
+p{
+    padding-left: 15px;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgb(137, 131, 131);
+}
+.final{
+    margin-top: 70px;
+   margin-left: 230px;
+   margin-right: 230px;
+    height: 250px;
+    background-color: rgb(50, 48, 48);
+    border: solid;
+    border-radius: 12px;
+
+}
+#bn{
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    background-color:blue;
+    color: rgb(232, 230, 230);
+    margin-left:90%;
+}
